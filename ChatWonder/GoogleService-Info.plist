@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>375548226824-pq3nnl3c3ovk0ave2odqolv6o1ofs2pq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.375548226824-pq3nnl3c3ovk0ave2odqolv6o1ofs2pq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_4SDmkngjsMyZXpgIWKbqjPjx_Q7RvFM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>375548226824</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>appdevelop.ChatWonder</string>
+	<key>PROJECT_ID</key>
+	<string>chatwonder-7955d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatwonder-7955d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>firebase_url</key>
+	<string>https://chatwonder-7955d-default-rtdb.europe-west1.firebasedatabase.app</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:375548226824:ios:c7d1a469ad94f2753150bd</string>
+</dict>
+</plist>
